@@ -38,11 +38,11 @@ This project implements a product recommender system using cosine similarity on 
 4. **Run app.py**
    - use streamlit run app.py
 ## Project Screenshots:
-
+   Homepage
    ![image](https://github.com/user-attachments/assets/e342da02-c596-42b6-b157-86044641ca48)
-
+   Product Search
    ![image](https://github.com/user-attachments/assets/b76dcc58-e34d-4359-9111-e0163827f49a)
-
+   Earphones Search
    ![image](https://github.com/user-attachments/assets/5577c0e5-01ec-41ca-92e7-fc66bf88e41b)
 
   ![image](https://github.com/user-attachments/assets/8dd76dbe-37a5-4d55-bbbc-c051723af808)
